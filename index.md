@@ -1,3 +1,5 @@
+# TTC klasa 4 - plan na semestr jesienny 2020
+
 | Tydzień                 | 👶 Easy                                                       | 👨 Medium                                                     | 😈 Hard                                                       |
 | ----------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2020.09.21 – 2020.09.25 | SoloLearn HTML Cały<br />SoloLearn CSS Do Position and Layout | Sololearn PHP do control structures<br />[tiny.cc/PHP-1](tiny.cc/PHP-1) | http://tiny.cc/e14-01-2006                                   |
