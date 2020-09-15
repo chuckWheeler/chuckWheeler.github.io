@@ -14,5 +14,5 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 =======
-theme: jekyll-theme-midnight
+theme: jekyll-theme-hacker
 >>>>>>> 3e563397048a56a7837d283c5e670568bcca4356
